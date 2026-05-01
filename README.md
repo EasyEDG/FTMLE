@@ -8,7 +8,9 @@
 </div>
 
 > [!CAUTION]
-> **注意:** 该警告表明**基金会文本标记语言编辑器 版式**尚未完成并开始测试。至少您不应该使用现在的**基金会文本标记语言编辑器 版式**。
+> **注意: 基金会文本标记语言编辑器 版式**尚未完成并开始测试。
+> 
+> 至少您不应该使用现在的**基金会文本标记语言编辑器 版式**。
 
 ## 信息
 
@@ -20,7 +22,7 @@
 [github-language-link]: https://www.w3.org/Style/CSS/#specs "CSS"
 [github-language-shield]: https://img.shields.io/badge/Language-CSS-8A2BE2?style=flat-square
 
-<!-- 预留
+<!-- 预留 
 > [!CAUTION]
 > 滚滚长江东逝水
 
@@ -31,5 +33,8 @@
 > 滚滚长江东逝水
 
 > [!NOTE]
+> 滚滚长江东逝水
+
+> [!WARNING]
 > 滚滚长江东逝水
 -->
